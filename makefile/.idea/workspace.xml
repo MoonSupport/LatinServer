@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec6c1d10-d87a-47ff-b01b-d4f7ede47582" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1VHLzkWiXChk1yvOiabCNYHKnbX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/CMakeFiles" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6c1d10-d87a-47ff-b01b-d4f7ede47582" name="Default Changelist" comment="" />
+      <created>1576905337740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576905337740</updated>
+      <workItem from="1576905341021" duration="751000" />
+      <workItem from="1576906132971" duration="2099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="19" y="190" key="#New_File_Extensions" timestamp="1576905482034">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="19" y="190" key="#New_File_Extensions/0.0.1680.1050@0.0.1680.1050" timestamp="1576905482033" />
+    <state x="158" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576905766145">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="158" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1576905766145" />
+    <state x="157" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576905494712">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="157" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576905494712" />
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1576906134306">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1576906134306" />
+  </component>
+</project>
